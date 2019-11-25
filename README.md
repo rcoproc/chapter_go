@@ -1,6 +1,6 @@
 # Chapter GOLang
 
-### Resumo das aulas do chapter em GO realizado pelos colaboradores da Bionexo
+### Resumo das aulas do chapter em GO realizado pelos devs.
 
 Chapter I : 14/11/2019 - Assunto: Fundamentos (presentes: Luan Pontólio, Ricardo Oliveira, Celso Lopes, Laise, Jairo, Gledson Strublic)
 
